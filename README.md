@@ -14,11 +14,11 @@
 ##  Logos
 
 ### University: UTU
-<img src="utu.png" width="150">
+<img src="https://www.bing.com/th/id/OIP.AbEgoPIaJnfRGOiCgEKEeAAAAA?w=160&h=211&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2" width="150">
 <h6>University: UTU</h6>
 
 ### Department: SRIMCA
-<img src="images/srimca.png" width="200">
+<img src="http://srimca.edu.in/images/logo.png" width="200">
 <h6>Department: srimca</h6>
 
 ---
