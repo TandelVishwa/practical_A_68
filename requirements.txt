@@ -1,0 +1,4 @@
+Java JDK 17+
+Git
+GitHub Account
+Visual Studio Code / IntelliJ IDEA
