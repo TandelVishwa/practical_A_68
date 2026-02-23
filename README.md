@@ -23,7 +23,7 @@
 
 ---
 
-##  Subject
+## Subject
 
 Cloud Computing with DevOps
 
