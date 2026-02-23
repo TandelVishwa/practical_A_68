@@ -1,45 +1,43 @@
 # Cloud Computing with DevOps Practical
 
----
-
 ## Students Information
 
-| Name | Enrollment Number | Practical Set |
-|------|------------------|--------------|
-| Srushti Tandel |  202504104610067 | Set B |
-| Vishwa Tandel | 202504104610068 | Set A |
+| Name             | Enrollment Number  | Practical Set |
+|------------------|--------------------|--------------|
+| Tandel Srushti    | 202504104610067    | Set B        |
+| Tandel Vishwa   | 202504104610068   | Set A        |
 
 ---
+## Logos
+<div>
+<img width="236" height="213" alt="image" src="https://github.com/user-attachments/assets/bae8ec28-2bea-4ab9-9ddb-94efe27e5fa6" />
 
-##  Logos
+  
+  University:UTU
+</div>
 
+<div>
+<img width="240" height="135" alt="image" src="https://github.com/user-attachments/assets/df3c7961-9d26-42cf-ad1c-ae3561b30317" />
 
-<img src="https://www.bing.com/th/id/OIP.AbEgoPIaJnfRGOiCgEKEeAAAAA?w=160&h=211&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2" width="150">
-<h6>University: UTU</h6>
+  Department: SRIMCA
 
-
-<img src="http://srimca.edu.in/images/logo.png" width="200">
-<h6>Department: srimca</h6>
-
+ </div>
+ 
 ---
+
 
 ## Subject
-
 Cloud Computing with DevOps
 
 ---
 
-##  Practical Overview
+## Practical Overview
+This repository contains Java programs developed as part of Practical 4 and Practical 5.
 
-This repository contains practical exercises and assignments related to Cloud Computing with DevOps.
-
-It includes:
-- Java programs
-- GitHub operations
-- Proper documentation for all tasks
+The project includes:
+- Pattern programs
+- Even number program
+- Pyramid programs
+- Git version control practice
 
 ---
-
-
-
-
