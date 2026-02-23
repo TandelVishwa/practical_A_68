@@ -15,9 +15,11 @@
 
 ### University: UTU
 <img src="images/utu.png" width="150">
+<h6>University: UTU</h6>
 
 ### Department: SRIMCA
 <img src="images/srimca.png" width="200">
+<h6>Department: srimca</h6>
 
 ---
 
