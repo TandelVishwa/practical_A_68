@@ -14,7 +14,7 @@
 ##  Logos
 
 ### University: UTU
-<img src="images/utu.png" width="150">
+<img src="utu.png" width="150">
 <h6>University: UTU</h6>
 
 ### Department: SRIMCA
