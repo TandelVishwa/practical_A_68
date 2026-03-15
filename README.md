@@ -26,34 +26,12 @@
  
 ---
 
-
-## Subject
-
----
-
-## 👨‍🎓 Students Information
+##  Students Information
 
 | Name | Enrollment Number | Practical Set |
 |------|------------------|--------------|
 | Your Name | Your Enrollment No. | Set B |
 | Partner Name | Partner Enrollment No. | Set A |
-
----
-
-## 🏫 Logos
-
-### University: UTU
-<img src="images/utu.png" width="150">
-
-### Department: SRIMCA
-<img src="images/srimca.png" width="200">
-
----
-
-## 📘 Subject
-
->>>>>>> c9d151a (Added README)
-Cloud Computing with DevOps
 
 ---
 
@@ -67,21 +45,6 @@ The project includes:
 - Git version control practice
 
 ---
-## 📋 Practical Overview
 
-This repository contains practical exercises and assignments related to Cloud Computing with DevOps.
-
-It includes:
-- Java programs
-- GitHub operations
-- Proper documentation for all tasks
-
----
-
-## 📝 Notes
-
-- Each practical task is organized in separate files.
-- The `requirements.txt` file contains all dependencies required to run the project.
-- Images and documentation are included to make the README informative and visually clear.
 
 
