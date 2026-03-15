@@ -23,15 +23,6 @@
   Department: SRIMCA
 
  </div>
- 
----
-
-##  Students Information
-
-| Name | Enrollment Number | Practical Set |
-|------|------------------|--------------|
-| Your Name | Your Enrollment No. | Set B |
-| Partner Name | Partner Enrollment No. | Set A |
 
 ---
 
